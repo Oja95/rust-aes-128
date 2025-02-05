@@ -1,0 +1,8 @@
+[package]
+name = "aes-128-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+aes = { version = "0.8.4" }
+cipher = "0.4.4"
